@@ -7,12 +7,15 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/Hello Kitty.gif "Profile Picture"){:.profile}
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+Hello! I am Son Suyun, majoring in computer engineering at Dong-A University.
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+I belong to my 40s seulA computer engineering student council.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I am working hard on [Blogs][blogs] and [Instagram][instagram]. I also put up a repertoire on [Python][python_github] and [c/cpp][cpp_github] on GitHub, so please come and visit.
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+Thank you for watching!
+
+[blogs]: https://blog.naver.com/sooyoon0321
+[instagram]: https://www.instagram.com/5on_66_78/
+[python_github]: https://github.com/bymyself-yoon/Python-Workspace
+[cpp_github]: https://github.com/bymyself-yoon/C.Cpp_Workspace
