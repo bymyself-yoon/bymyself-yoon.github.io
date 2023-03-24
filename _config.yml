@@ -97,11 +97,11 @@ social:
     desc: Fork me on GitHub
     share: true
 
-  - name: LinkedIn
-    icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
-    desc: Connect with me on LinkedIn
+  - name: Blog
+    icon: naverblog
+    username: yooni
+    url: https://blog.naver.com/sooyoon0321
+    desc: Connect with me on Blog
     share: true
 
   - name: Google+
