@@ -14,7 +14,7 @@ subtitle: "C/C++ · Python · Java · Oss Workspace"
 email: sooyoon0321@naver.com
 name: Son suyun
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  Stories about how I build products and services
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -69,18 +69,18 @@ descriptions:
 # Example:
 #
 # social:
-#   - name: Twitter                         # Name of the service
-#     icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
+#   - name: Instagram                         # Name of the service
+#     icon: instagram                         # Font Awesome icon to use (minus fa- prefix)
 #     username: "@TheBenCentra"             # (User) Name to display in the footer link
-#     url: https://twitter.com/TheBenCentra # URL of your profile (leave blank to not display in footer)
-#     desc: Follow me on Twitter            # Description to display as link title, etc
+#     url: https://www.instagram.com/5on_66_78/ # URL of your profile (leave blank to not display in footer)
+#     desc: Follow me on Instagram            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-  - name: Twitter
-    icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
-    desc: Follow me on Twitter
+  - name: Instagram
+    icon: instagram
+    username: 5on_66_78
+    url: https://www.instagram.com/5on_66_78/
+    desc: Follow me on Instagram
     share: true
 
   - name: Facebook
