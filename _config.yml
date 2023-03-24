@@ -98,8 +98,8 @@ social:
     share: true
 
   - name: Blog
-    icon: naverblog
-    username: yooni
+    icon: linkedin
+    username: yooni's blog
     url: https://blog.naver.com/sooyoon0321
     desc: Connect with me on Blog
     share: true
