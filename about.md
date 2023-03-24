@@ -13,7 +13,7 @@ I belong to my 40s seulA computer engineering student council.
 
 I am working hard on [Blogs][blogs] and [Instagram][instagram]. I also put up a repertoire on [Python][python_github] and [C/Cpp][cpp_github] on GitHub, so please come and visit.
 
-Thank you for watching!
+Thank you for coming!
 
 [blogs]: https://blog.naver.com/sooyoon0321
 [instagram]: https://www.instagram.com/5on_66_78/
